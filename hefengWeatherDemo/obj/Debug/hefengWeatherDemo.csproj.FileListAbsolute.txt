@@ -1,0 +1,13 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\bin\Debug\hefengWeatherDemo.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\bin\Debug\hefengWeatherDemo.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\bin\Debug\hefengWeatherDemo.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\obj\Debug\hefengWeatherDemo.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\obj\Debug\hefengWeatherDemo.Form1.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\obj\Debug\hefengWeatherDemo.Properties.Resources.resources
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\obj\Debug\hefengWeatherDemo.csproj.GenerateResource.Cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\obj\Debug\hefengWeatherDemo.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\obj\Debug\hefengWeatherDemo.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\obj\Debug\hefengWeatherDemo.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\hefengWeatherDemo\hefengWeatherDemo\bin\Debug\Newtonsoft.Json.xml
